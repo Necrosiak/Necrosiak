@@ -23,7 +23,7 @@ built to be used with a controller, from the Quick Access Menu, without ever swi
 |---|---|---|---|
 | 💬 | **[Steamcord](https://github.com/Necrosiak/Steamcord)** | Discord in Game Mode: voice, DMs, servers, screen sharing | [![](https://img.shields.io/github/v/release/Necrosiak/Steamcord?style=flat-square&label=)](https://github.com/Necrosiak/Steamcord/releases/latest) |
 | 🗝️ | **[SkullKey](https://github.com/Necrosiak/SkullKey)** | Epic, GOG, Amazon, miHoYo, Minecraft, classics and more in your Steam library | [![](https://img.shields.io/github/v/release/Necrosiak/SkullKey?style=flat-square&label=)](https://github.com/Necrosiak/SkullKey/releases/latest) |
-| 🦴📡 | **[BoneCast](https://github.com/Necrosiak/BoneCast)** | Go live on Twitch or YouTube, with a chat overlay over the game | [![](https://img.shields.io/github/v/release/Necrosiak/BoneCast?style=flat-square&label=)](https://github.com/Necrosiak/BoneCast/releases/latest) |
+| 📡 | **[BoneCast](https://github.com/Necrosiak/BoneCast)** | Go live on Twitch or YouTube, with a chat overlay over the game | [![](https://img.shields.io/github/v/release/Necrosiak/BoneCast?style=flat-square&label=)](https://github.com/Necrosiak/BoneCast/releases/latest) |
 | 🛠️ | **[BC250 Toolkit](https://github.com/Necrosiak/bc250-toolkit-decky)** | Tune and monitor the ASRock BC-250 from Game Mode | [![](https://img.shields.io/github/v/release/Necrosiak/bc250-toolkit-decky?style=flat-square&label=)](https://github.com/Necrosiak/bc250-toolkit-decky/releases/latest) |
 | ⚙️ | **[bc250-tweaks](https://github.com/Necrosiak/bc250-tweaks)** | One script that turns the BC-250 into a gaming machine | `main` |
 
@@ -73,7 +73,7 @@ built to be used with a controller, from the Quick Access Menu, without ever swi
 
 ---
 
-## 🦴📡 [BoneCast](https://github.com/Necrosiak/BoneCast)
+## 📡 [BoneCast](https://github.com/Necrosiak/BoneCast)
 **Twitch and YouTube, in Steam Game Mode.**
 
 [![Release](https://img.shields.io/github/v/release/Necrosiak/BoneCast?style=flat-square)](https://github.com/Necrosiak/BoneCast/releases/latest)
@@ -150,7 +150,7 @@ built to be used with a controller, from the Quick Access Menu, without ever swi
 |---|---|
 | 💬 Steamcord | `https://github.com/Necrosiak/Steamcord/releases/latest/download/Steamcord.zip` |
 | 🗝️ SkullKey | `https://github.com/Necrosiak/SkullKey/releases/latest/download/SkullKey.zip` |
-| 🦴📡 BoneCast | `https://github.com/Necrosiak/BoneCast/releases/latest/download/BoneCast.zip` |
+| 📡 BoneCast | `https://github.com/Necrosiak/BoneCast/releases/latest/download/BoneCast.zip` |
 | 🛠️ BC250 Toolkit | `https://github.com/Necrosiak/bc250-toolkit-decky/releases/latest/download/BC250-Toolkit.zip` |
 
 After that, each plugin keeps itself up to date. For **bc250-tweaks**, see its [quick install](https://github.com/Necrosiak/bc250-tweaks#quick-install-fresh-setup).
