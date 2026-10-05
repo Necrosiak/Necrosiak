@@ -176,3 +176,17 @@ AI (Claude by Anthropic and Codex by OpenAI) is used in the making of these proj
 If my projects are useful to you, you can support their development on Ko-fi. Thank you!
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nekyron)
+
+### 💛 Latest tips
+
+<!-- LATEST-TIPS:START -->
+| | Supporter | Date |
+|---|---|---|
+| ☕ | **basti** ([@bastiHST90](https://github.com/bastiHST90)) | October 2026 |
+<!-- LATEST-TIPS:END -->
+
+### 🙏 Thank you to everyone who supported these projects
+
+<!-- SUPPORTERS:START -->
+**basti** ([@bastiHST90](https://github.com/bastiHST90))
+<!-- SUPPORTERS:END -->
