@@ -182,11 +182,12 @@ If my projects are useful to you, you can support their development on Ko-fi. Th
 <!-- LATEST-TIPS:START -->
 | | Supporter | Date |
 |---|---|---|
+| ☕ | **zavaro** ([@zavaro](https://github.com/zavaro)) | October 2026 |
 | ☕ | **basti** ([@bastiHST90](https://github.com/bastiHST90)) | October 2026 |
 <!-- LATEST-TIPS:END -->
 
 ### 🙏 Thank you to everyone who supported these projects
 
 <!-- SUPPORTERS:START -->
-**basti** ([@bastiHST90](https://github.com/bastiHST90))
+**basti** ([@bastiHST90](https://github.com/bastiHST90)) · **zavaro** ([@zavaro](https://github.com/zavaro))
 <!-- SUPPORTERS:END -->
